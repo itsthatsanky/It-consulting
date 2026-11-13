@@ -13,8 +13,8 @@ SUBMITTED = "8 November 2026"
 TEAM = [
     ("Adithya Pradeep", "246213368"),
     ("Sankarshana Mulugundam", "246213080"),
-    ("Faizan Ali Siddiqui", "246213110"),
     ("Samiksha Sandeep Das", "246213076"),
+    ("Faizan Ali Siddiqui", "246213110"),
     ("Anupama Sahu", "246213502"),
     ("Prathamesh Prabhu", "246213290"),
 ]

@@ -27,8 +27,8 @@ No real energy or cost savings are claimed. Code runtime is never converted to k
 | --- | --- | --- |
 | M1 · PM / Client | Adithya Pradeep | 246213368 |
 | M2 · Tech / AI | Sankarshana Mulugundam | 246213080 |
-| M3 · Delivery / QA | Faizan Ali Siddiqui | 246213110 |
-| M4 · Finance | Samiksha Sandeep Das | 246213076 |
+| M3 · Delivery / QA | Samiksha Sandeep Das | 246213076 |
+| M4 · Finance | Faizan Ali Siddiqui | 246213110 |
 | M5 · Research | Anupama Sahu | 246213502 |
 | M6 · Prototype / Adoption | Prathamesh Prabhu | 246213290 |
 
